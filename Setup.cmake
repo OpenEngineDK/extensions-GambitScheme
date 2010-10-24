@@ -1,0 +1,6 @@
+FIND_PATH(GAMBIT_INCLUDE_DIR gambit.h ${OE_LIB_DIR}/gambit/include)
+FIND_PATH(GAMBIT_LIB_DIR _gambc.c ${OE_LIB_DIR}/gambit/lib)
+
+INCLUDE_DIRECTORIES(${GAMBIT_INCLUDE_DIR})
+
+

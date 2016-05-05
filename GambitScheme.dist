@@ -1,4 +1,4 @@
 
-darcs /extensions/GambitScheme           http://openengine.dk/code/extensions/GambitScheme
-darcs-dev /extensions/GambitScheme           fh.daimi.au.dk:/users/cgd/code/extensions/GambitScheme
+git /extensions/GambitScheme           https://github.com/OpenEngineDK/extensions-GambitScheme.git
+git-dev /extensions/GambitScheme           git@github.com:OpenEngineDK/extensions-GambitScheme.git
 
